@@ -1,6 +1,6 @@
 # My-Doctor-Online
 
-## Proje Oluşturma ve Dosyaların Eklenmesi
+## Dosyaların Eklenmesi
 
 1. **Yeni Proje Oluşturma**  
    - Visual Studio’yu açın ve **File → New → Project** yolunu izleyin.  
